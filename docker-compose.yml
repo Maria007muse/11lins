@@ -1,7 +1,7 @@
 version: "3"
 services:
   license:
-    image: rubanovam007/rsue-license
+    image: zenyapod07/rsue-license
     ports:
       - "8080:8080"
     environment:
